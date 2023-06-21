@@ -1,9 +1,10 @@
 {
-  "name": "10---initial-deploy-to-netlify",
+  "name": "23---update-deployed-version-on-netlfiy",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.4.3"
+    "react-router-dom": "6.4.3",
+    "miragejs": "0.1.46"
   },
   "devDependencies": {
     "vite": "latest",
